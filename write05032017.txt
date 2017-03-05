@@ -23,3 +23,5 @@ I was thinking this this morning.  One of the problems with clothes that "reveal
 I'm still not sure about this keyboard.  These scribblings have been about 500 words.  Just sitting and writing it's quite easy to write 500 words, even a thousand.  I was wondering about the "Writing down the bones" and the idea of a writing marathon.  Could I write a writing marathon on this keyboard? Probably not. 
 
 The hot girls from the Turkish cafe are here - now I'm in Nero's in Jubilee place.  I've walked up the east side of the Isle of Dogs - grumbling at all the places where developers have shut the riverside path. And I've walked 3 and a bit miles in the process.
+
+I think I just figured out how to make sure that I don't need to log in again using git.  It's really important with these things to keep using them - it's the only way that you can get transparent with them.
