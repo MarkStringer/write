@@ -1,0 +1,37 @@
+Wow ubuntu is fast on a machine with SSD's instead of disks.  And actually, I think that ubuntu is better than the Chromeos on a machine like this.  I was worried about it having only 2gb of ram but that doesn't seem to matter at all.  
+
+And now I've figure out how to turn the keypad off when you're typing, typing is a breeze as well.
+
+As is probably obvious from what I've just written, I don't have anything in particular to write about.  I was thinking about setting up my blog platform on the ubuntu on this laptop, but the interesting thing is that that requires (well, it's interesting to me) that requires a whole bunch of perl setup and I was wondering if I could use that perl setup as an opportunity to learn more about Chef - or puppet - or both.
+
+Sopra Steria were pissing me off again yesterday - rejecting my expenses because I hadn't put "Uxbridge" as the city. Yeah, because that's what Uxbridge is.
+
+And then insisting that I fill in this new performance review application, which I know is going to be a total pain in the arse.
+
+Anyway.  Relax, relax.  I'm going to take a half day tomorrow or Friday to fill in this fucking performance application and request extra leave. And replenish and sort out all the equipment for the course.
+
+I can't work out whether the walking is doing me any good or not.  It occurs to me that I might actually be getting heavier again - my R2D2 t-shirt felt tight on my this morning.
+
+But I know that I don't really get to feel good from walking unless I'm averaging about 6 miles a day - and really only when I've done a long walk - like 10 or 12 miles.
+
+Still it's good to be back walking from Uxbridge to Ickenham the back way in the evenings and it's good to be looking at a whole Spritng and summer of it getting lighter and warmer for those walks.
+
+In other ways work seems to be going better, but what I'm thinking from this latest incident with SopraSteria is that I should go back to the market and get some contract work.  It would be an opportunity to clear out my bank account of the all the charges that have accrued over the years.
+
+Wow - so I nearly lost everything that I just typed - not of course that that would be that greater loss to world literature.
+
+I've started using gedit rather than vim because I'm now habituated to doing ctrl-s when I want to save.  This is bad in a way because when I'm on a machine that doesn't have a gui I'm still going to have to use vim. May be it would be better just to bite the bullet and get habituated to use vim.  Or even emacs.  Apparently that's still what all the really cool kids use.
+
+It strikes me that if I were to write a book - yes, we're back at that again - then it would make sense for me to try to specifically just do one thing at a time rather than trying to do lots of different things.  Do some research. Good.  Make lots of notes - highlight lots of things - you don't ever have to look at them again. Then write - it's OK to refer to notes, but you might want to just go for it and not worry about sources until later.
+
+Edit for structure.  Go through what you've written and re-structure it.
+
+Edit for language - go through what you've written and make the language tighter.
+
+Edit for punctuation - make sure the grammar and punctuation are the best that you can do.
+
+Wow, somebody down the train has got some honey-flavoured porridge and it smells *powerfully*.
+
+I'm in Hillingdon - I'm slightly early today - it's only 9:00am, I was just thinking about getting off here and walking to work, but it's raining so I won't.
+
+
